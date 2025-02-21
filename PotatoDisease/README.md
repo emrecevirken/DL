@@ -1,0 +1,1 @@
+Bitki Yapraklarından Hastalık Teşhisi
