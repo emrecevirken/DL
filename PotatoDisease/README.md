@@ -1,1 +1,1 @@
-Bitki Yapraklarından Hastalık Teşhisi
+Potato Disease Classification
